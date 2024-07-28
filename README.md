@@ -9,8 +9,7 @@ These are the LaTeX source files for my academic CV.
 
 Download my CV:
 
-- [English version](https://github.com/ziyixi/cv/raw/gh-pages/DTian_cv_en.pdf)
-- [Chinese version](https://github.com/ziyixi/cv/raw/gh-pages/DTian_cv_cn.pdf)
+- [English version](https://github.com/ziyixi/cv/raw/gh-pages/ZXi_cv_en.pdf)
 
 ## Build
 
