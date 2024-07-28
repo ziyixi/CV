@@ -40,8 +40,7 @@ jobs:
       - name: Prepare files for gh-pages
         run: |
           mkdir public
-          mv cn/cv.pdf public/DTian_cv_cn.pdf
-          mv en/cv.pdf public/DTian_cv_en.pdf
+          mv en/cv.pdf public/ZXi_cv_en.pdf
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
